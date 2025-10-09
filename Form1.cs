@@ -29,7 +29,7 @@ namespace modbus
 
         private void Connexionbutton1_Click(object sender, EventArgs e)
         {
-            this.AFFtextBox2.Text = this.IPtextBox1.Text;
+            
         }
 
         private void Deconnexionbutton2_Click(object sender, EventArgs e)
